@@ -1,0 +1,35 @@
+____________________
+SQL MERGER 1.2.3
+____________________
+
++ fixed some bugs of previous revisions.
+
+____________________
+SQL MERGER 1.2.2
+____________________
+
++ added hint text for buttons
+
+____________________
+SQL MERGER 1.2.1
+____________________
+
++ fixed the update thread synchronization
++ Added procedure to order the grid
++ new save system for merged  file
++ added an option to not include the paths specification in merged file.
++ added Main Menu options
++ other minor fixes
+
+____________________
+SQL MERGER 1.1.2
+____________________
+
++ added a second thread for the update check process
++ some fixes to the grid system
+
+____________________
+SQL MERGER 1.1.1
+____________________
+
++ first revision released
